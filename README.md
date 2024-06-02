@@ -2,7 +2,7 @@
 
 ## Mô tả dự án
 
-Dự án này nhằm thu thập, xử lý và phân tích dữ liệu về sản lượng, diện tích, năng suất lúa của các tỉnh thuộc Việt Nam, kết hợp với dữ liệu khí tượng từ các trạm đo để phân tích mối quan hệ giữa điều kiện khí tượng và sản lượng lúa. Dữ liệu về lúa được lấy từ website của Tổng cục Thống kê Việt Nam, và dữ liệu khí tượng được lấy từ trang web Copernicus Climate Data Store (CDS).
+Dự án này nhằm thu thập, xử lý và phân tích dữ liệu về sản lượng, diện tích, năng suất lúa của các tỉnh thuộc Việt Nam để chọn ra tỉnh có tiềm năng nhất trong ngành lúa giúp một nhà đầu tư nước ngoài
 
 ## Các bước thực hiện
 
